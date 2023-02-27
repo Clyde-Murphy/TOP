@@ -1,0 +1,10 @@
+.header {
+    text-align: center;
+    color: goldenrod;
+    background-color: rgb(116, 12, 12);
+}
+
+p {
+    text-align: center;
+    font-size: 24px;
+}
